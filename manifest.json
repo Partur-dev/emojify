@@ -1,0 +1,18 @@
+{
+  "id": "com.partur.Emojify",
+  "name": "Emojify",
+  "description": "<:kafif:962730564840996964>",
+  "author": {
+    "name": "partur",
+    "discordID": "497770123604525057",
+    "github": "partur-dev"
+  },
+  "version": "1.0.0",
+  "updater": {
+    "type": "github",
+    "id": "partur-dev/emojify"
+  },
+  "license": "MIT",
+  "type": "replugged-plugin",
+  "renderer": "src/index.ts"
+}
